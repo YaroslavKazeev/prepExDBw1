@@ -1,0 +1,22 @@
+{
+  "name": "prepexdbw1",
+  "version": "1.0.0",
+  "main": "prepExDBw1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YaroslavKazeev/prepExDBw1.git"
+  },
+  "author": "Yaroslav Kazeev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YaroslavKazeev/prepExDBw1/issues"
+  },
+  "homepage": "https://github.com/YaroslavKazeev/prepExDBw1#readme",
+  "description": "",
+  "dependencies": {
+    "pg": "^8.16.3"
+  }
+}
